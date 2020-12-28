@@ -1,4 +1,4 @@
-# Welcome to Rails
+# Bonjour casa
 
 ## What's Rails?
 
